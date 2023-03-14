@@ -1,1 +1,1 @@
-This is for the shell variables expansions lesson
+Directory containing folders for shell work
